@@ -1,0 +1,9 @@
+#!/bin/bash
+#Script Variables
+HOST='174.138.187.20';
+USER='hostings_orangevpn';
+PASS='hostings_orangevpn';
+DBNAME='hostings_orangevpn';
+PORT_TCP='1194';
+PORT_UDP='53';
+404: Not Found
