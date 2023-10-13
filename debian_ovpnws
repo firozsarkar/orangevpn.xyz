@@ -1,9 +1,9 @@
 #!/bin/bash
 #Script Variables
-HOST='174.138.187.20';
-USER='hostings_orangevpn';
-PASS='hostings_orangevpn';
-DBNAME='hostings_orangevpn';
+HOST='194.233.76.117';
+USER='orangevp_web';
+PASS='orangevp_web';
+DBNAME='orangevp_web';
 PORT_TCP='1194';
 PORT_UDP='53';
 timedatectl set-timezone Asia/Riyadh
